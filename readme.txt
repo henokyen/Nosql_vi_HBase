@@ -1,0 +1,2 @@
+In this project I designed a recommendation system that recommends new products for customers based on the product they already reviewed.  I wrote a program (in python) using the A-priori algorithm to find products which are frequently reviewed together. The main objective is to extract association rules that suggest, with high-degree of certainty, which products are highly co-reviewed. For testing the performance of this recommendation system I used a product review data set that is freely available from Amazon. 
+Usage python twitter.py
